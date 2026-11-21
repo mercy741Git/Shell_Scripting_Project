@@ -1,0 +1,9 @@
+
+.log:
+ app.log -> C:\DevOps_Training\PythonTraning\source\app.log
+ error.log -> C:\DevOps_Training\PythonTraning\source\error.log
+.txt:
+ application.txt -> C:\DevOps_Training\PythonTraning\source\application.txt
+ config.txt -> C:\DevOps_Training\PythonTraning\source\config.txt
+ database.txt -> C:\DevOps_Training\PythonTraning\source\database.txt
+ app_datafile.txt -> C:\DevOps_Training\PythonTraning\source\app_data\app_datafile.txt

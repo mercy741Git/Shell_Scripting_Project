@@ -1,0 +1,4 @@
+Computer Name: PF3XMVQA
+Operating System: Windows
+OS Version: 10.0.26200
+Processor:  <function processor at 0x00000187CCC28880>
